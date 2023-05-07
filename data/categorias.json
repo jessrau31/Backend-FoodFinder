@@ -1,0 +1,11 @@
+[{
+    "nombre": "Comida",
+    "descripcion": "Productos alimenticios, desde comestibles básicos hasta comida gourmet",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/8325/8325386.png"
+},
+{
+    "nombre": "Bebida",
+    "descripcion": "Productos líquidos, desde agua hasta bebidas alcohólicas",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/820/820603.png"
+}]
+    

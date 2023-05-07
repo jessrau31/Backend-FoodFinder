@@ -1,0 +1,27 @@
+[ {
+    "nombre": "Burger King",
+    "descripcion": "Cadenera de restaurantes de comida rápida, especializada en hamburguesas",
+    "telefono": "123-456-7890",
+    "calificacion": 4.2,
+    "direccion": "Bulevar Juan Pablo II, Tegucigalpa",
+    "correo": "contacto@burgerking.com",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burger_King_logo_%281994%29.svg/2111px-Burger_King_logo_%281994%29.svg.png",
+    "banner": "https://www.bkcoupons.sg/wp-content/uploads/2021/09/Banner-for-test-the-size-1.png",
+    "codigoCategoria": {
+        "$oid": "6456d58121c083dac16c2ecf"
+      }
+  },{
+    "nombre": "McDonald's",
+    "descripcion": "Cadenera de restaurantes de comida rápida, especializada en hamburguesas",
+    "telefono": "123-456-7890",
+    "calificacion": 3.8,
+    "direccion": "Bulevar Suyapa, Tegucigalpa",
+    "correo": "contacto@mcdonalds.com",
+    "logo": "https://logos-download.com/wp-content/uploads/2016/03/McDonalds_Logo_2018.svg",
+    "banner": "https://us.123rf.com/450wm/liudmilachernetska/liudmilachernetska2109/liudmilachernetska210904993/173511268-mykolaiv-ucrania-12-de-agosto-de-2021-porciones-peque%C3%B1as-y-grandes-de-patatas-fritas-mcdonald-s.jpg?ver=6",
+    "codigoCategoria": {
+        "$oid": "6456d58121c083dac16c2ecf"
+      }
+  }
+
+]

@@ -1,0 +1,35 @@
+[
+	{
+		"_id": {
+			"$oid": "6456d7739ba9b110b5f4062f"
+		},
+		"nombre": "Gaby",
+		"usuario": "gaby",
+		"password": "123.asd",
+		"tipo": "A",
+		"aprobado": true,
+		"carrito": null
+	},
+	{
+		"_id": {
+			"$oid": "6456d7739ba9b110b5f40630"
+		},
+		"nombre": "Jessica",
+		"usuario": "jess",
+		"password": "456.fgh",
+		"tipo": "B",
+		"aprobado": true,
+		"carrito": null
+	},
+	{
+		"_id": {
+			"$oid": "6456d7739ba9b110b5f40631"
+		},
+		"nombre": "Ana",
+		"usuario": "ana",
+		"password": "jkl.789",
+		"tipo": "C",
+		"aprobado": false,
+		"carrito": null
+	}
+]

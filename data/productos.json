@@ -1,0 +1,40 @@
+[{
+    "nombre": "Whopper",
+    "descripcion": "Hamburguesa con carne a la parrilla, lechuga, tomate, cebolla, pepinillos, mayonesa y ketchup en un pan de semillas de sésamo.",
+    "cantidad": 10,
+    "precio": 215,
+    "imagen": "https://bk-latam-prod.s3.amazonaws.com/sites/burgerking.hn/files/WHOPPER_0.png",
+    "codigoEmpresa": {
+        "$oid": "6456f3d321c083dac16c2ee2"
+      }
+  },
+  {
+    "nombre": "Chicken Fries",
+    "descripcion": "Tiras de pollo empanizado con una forma y tamaño similares a las papas fritas.",
+    "cantidad": 9,
+    "precio": 150,
+    "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.whopper.ie%2Fproduct%2Fchicken-fries-2%2F&psig=AOvVaw34DXQJOZ-8jvaBfe8Z8gTj&ust=1683502123734000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjcioHt4f4CFQAAAAAdAAAAABAE",
+    "codigoEmpresa": {
+        "$oid": "6456f3d321c083dac16c2ee2"
+      }
+  },
+{
+        "nombre": "Big Mac",
+        "descripcion": "Hamburguesa con carne a la parrilla, lechuga, queso cheddar, pepinillos, cebolla, salsa especial y pan de semillas de sésamo.",
+        "cantidad": 15,
+        "precio": 175,
+        "imagen": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_0005_BigMac_832x472:1-3-product-tile-desktop?wid=765&hei=472&dpr=off",
+        "codigoEmpresa": {
+            "$oid": "6456f3d321c083dac16c2ee3"
+          }
+     }, 
+     {
+        "nombre": "McNuggets",
+        "descripcion": "Tiras de pollo empanizado en forma de nuggets.",
+        "cantidad": 10,
+        "precio": 150,
+        "imagen": "https://res.cloudinary.com/flow404/image/upload/f_auto,h_480,q_auto:good/v1/mcdonalds/HR_CSO_1506_-_Chicken_McNuggets_9_kom_gl8kvd",
+        "codigoEmpresa": {
+            "$oid": "6456f3d321c083dac16c2ee3"
+          }
+}]
